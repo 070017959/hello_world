@@ -1,2 +1,1 @@
-# hello_world
-hello world 
+trying to learn how to code and use git
